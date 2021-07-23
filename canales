@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINFO:-1, Play boy 
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINFO:-0, ATACAMA 
+https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+#EXTINFO:-1, PLAY BOY https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINFO:-1, UNIVISION 
+http://ul.cdn946.net:8080/hls/th9y8suwvc.m3u8?s=VY51I-TMuYmn5xf3G_SCpQ&e=1587097368
+#EXTINFO:-1, TELERED
+http://k4.usastreams.com/ARBtv/teleplus/media_w763643313_10930.ts
+#EXTINFO:-0, RED UNO
+https://playback.akamaized.net/streams/23074572_7994615_lsim1ujczsp9jv8w6yb_1/media/23074572_7994615_lsim1ujczsp9jv8w6yb_1@628000pb.m3u8?dw=14400&ts=1587081600&hdnts=exp=1587255666~acl=/streams/23074572_7994615_lsim1ujczsp9jv8w6yb_1/media*~hmac=cd1ae9941fe1808856579a8d5d0b10fb4866848f51f672846b8634e519638c4b
+#EXTINFO:-1, TELERED 
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1154410226.m3u8
+#EXTINFO:-0, GLOBO VISION 
+https://r3---sn-ja5gvjv-hqxs.googlevideo.com/videoplayback?expire=1587105429&ei=NfqYXtjfBIm0kAPPlZuQBg&ip=181.51.33.22&id=wMjmtOxqDx8.0&itag=134&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=Gl&mm=44%2C29&mn=sn-ja5gvjv-hqxs%2Csn-cvb7ln7e&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=23&initcwndbps=476250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1587083776&fvip=6&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AJpPlLswRgIhAJC7Nph6XY865H1d-P0NnoZTbRSe9LDGmqrOBokoNrjnAiEA76ayYRurGbt5qVTc2ibnPh_XE-qWbXhzF37z82sYSWI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=ALrAebAwRAIgUUH2YkIMOtF8T55Q64e8FVHHjHuTe2c2lbfVUTCylekCIEiacF4V6rdN7OueVkKAXaSShaj7vW_D5bMUCLZD0-8E&alr=yes&cpn=KZq5_nGwhuZ-EO1x&cver=20200415&headm=3&rn=1
+#EXTINFO:-1, HBO 
+https://edge3-hr.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD-video=678000-41753872.ts
+#EXTINFO:-1, FOX CLASIC
+https://cinedarkplay.club:25463/hlsr/T0AMUBdfQQIVBANXVQQAA1IGUgZTUwILBAhVWFAHBVRVVV1UVlNQCgYSG0AWREQAV1w9XVMUCwBWDxwbQBcEFmsLABNeFVILFRwVFgxdU0cMAU4WR19VEFwaAwoAV0NIFgccRQFFDVlbb1MHE1lVABQLDEFbWh0QCVZvXVAJAApQQF4TVRVPGl5DR0BfXkMJWh1AVl5CQ1MSXRIDF1VVUwdASBMHWBZWQ0JOQF8SdSoUHUBRT0JUXBVRX1cXXkMJBxdcE0gVCktoQlIREUJTBFtUEBYNFAEQShpdWE07AgtaDAFSEF4MVkQSDUBWAAZVFB1AWVhYWEYJSm9JXABDXhZRVwVdFR4=/DarkIptv/vlhScyADUP/207/14322bad2273babd3388098c8a482364/207_264.ts
+#EXTINFO:-1, MULTICANAL https://5b38ce71f1f00.streamlock.net/8176/8176/media_w1151712472_145.ts
+#EXTINFO:-0, UNITEL https://playback2.akamaized.net/streams/8665913_4253600_lsiwvbc2ec313k69z8t_1/exp=1587230298~acl=%2f*~data=hdntl~hmac=d99cc0905f13eec9577c2b2cefe95f09b6d6363d0341e32ea8738247ee7e3692/media/8665913_4253600_lsiwvbc2ec313k69z8t_1@428000p.m3u8?dw=14400&ts=1587142800
+#EXTINFO:-1, FRECUENCIA LATINA 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w554966584.m3u8
+#EXTINFO:-1, MEGA VISION 
+https://r1---sn-q4flrnek.googlevideo.com/videoplayback?expire=1587166326&ei=FuiZXrPLArCbkATb1L2gDw&ip=181.51.33.22&id=o-AAzGFgiI65qwWU1VVLI96XvNMf0sseCmtkZsPpFFYsCL&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=4981897&ratebypass=yes&dur=63.483&lmt=1585955488228929&fvip=1&c=WEB_EMBEDDED_PLAYER&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJpPlLswRgIhAOlucW-7LNSQ9u1rapC0C2ZzMmOhHEDergBQ4-A7h-pjAiEA-PYiQmPVXw6z7rVI74iUPdcDMF5f3sstmDll7c5GY_4%3D&cm2rm=sn-ja5gvjv-hqxs7z,sn-cvbee7e&req_id=6f78770ef5ada3ee&redirect_counter=2&cms_redirect=yes&mh=G3&mm=34&mn=sn-q4flrnek&ms=ltu&mt=1587144692&mv=m&mvi=0&pl=23&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=ALrAebAwRgIhANuGfSSAsZJANitEfCzOcndjv_k3__dYgMVaosqWYTXUAiEAripdrp4nxxpK28I0X-wyK5hZg5C0YpOwoUf1Y1_TPY4%3D
+#EXTINFO:-1, SYFY 
+https://grifo4.mitopo.me/live/syfy/20898.ts
+#EXTINFO:-1, TCM 
+https://grifo8.mitopo.me/live/tcm/16044.ts
+#EXTINFO:-1, WIN 
+https://e5.cdn4.us/ingest01/26835.m3u8?sf=YVJsU1JjVW1wNQ==&token=KkKOhRKoi_xqhImDL8cJBQ&expires=1587160666&rnd=
+#EXTINFO:-1, TNT https://pico16.pedromo.me/live/tntlatino/68086.ts
+#EXTINFO:-1, HUSTER https://grifo5.mitopo.me/live/hustler/1718.ts
